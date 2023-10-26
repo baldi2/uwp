@@ -11,4 +11,6 @@ You **require** a Windows 10+ (build 1809) installation, with the latest Microso
 That's about it, you successfully installed/downgraded your Roblox Version.
 
 ## Any issues?
-I'm lazy to give support about it, find a fix for yourself, as most of the issues of it are common sense.
+An error in Fluster with the error code 280. I can't fix it.
+
+"Your version of Roblox may be out of date. Please update Roblox and try again." This is with Fluster.
